@@ -1,0 +1,10 @@
+class leapyear
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		//for(i=1900;i%4=0;i++)
+        {
+        System.out.println("leapyears between 1900 and 2020=");
+        }
+	}
+}
